@@ -21,4 +21,4 @@ const statesFunFactsSchema = new Schema({
 });
 
 //exports the funfact
-module.exports = mongoose.model('states', statesFunFactsSchema);
+module.exports = mongoose.model('funfacts', statesFunFactsSchema);
