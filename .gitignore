@@ -1,0 +1,5 @@
+node_modules
+errLog.txt
+reqLog.txt
+.env
+
